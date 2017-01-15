@@ -1,0 +1,48 @@
+/* globalne*/
+
+* {
+	font-family: Lato;
+	text-decoration: none;
+}
+
+/* menu główne*/
+
+#menu {
+	width: 100%;
+	background-color: #000000;
+	color: #ffffff;
+	position: fixed;
+	top: 0;
+	
+}
+
+#menu-item {
+	
+}
+
+ul {
+	text-align: center;
+}
+
+li {
+	display: inline;
+	margin-right: 50px;
+			
+}
+
+
+
+/* nagłówek*/
+
+header {
+	width: 100%;
+}
+
+img {
+	width: 100%;
+}
+
+h1 {
+	font-family: arial;
+	
+}
